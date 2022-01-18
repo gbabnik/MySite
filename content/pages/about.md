@@ -6,7 +6,7 @@ section1: >-
   ## U lajfu nimaš ti kej skrbet, k tk nkamr ne prideš
 
 
-  Netlify CMS works with both `.md` and `.json`.
+  bh,g,gbj,bj,bm
 
 
   ![Image test](/images/uploads/img_20211207_161208.jpg)
