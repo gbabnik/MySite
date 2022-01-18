@@ -1,19 +1,24 @@
 ---
-title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+title: Gremo nekam!!
+featuredImage: /images/uploads/img_20211206_162450.jpg
+subtitle: Ampak, ne bomo preveč kompliciral, a'n
+section1: >-
+  ## U lajfu nimaš ti kej skrbet, k tk nkamr ne prideš
+
 
   Netlify CMS works with both `.md` and `.json`.
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
 
-  [Link test](/images/uploads/isabella juskova.jpg)
+  ![Image test](/images/uploads/img_20211207_161208.jpg)
+
+
+  \[Link test](/images/uploads/isabella juskova.jpg)
+
 
   ### Embed Test
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 section2: |-
   ## This is a Container component
 
