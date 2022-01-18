@@ -6,7 +6,7 @@ section1: >-
   ## U lajfu nimaš ti kej skrbet, k tk nkamr ne prideš
 
 
-  Netlify CMS works with both `.md` and `.json`.
+  bh,g,gbj,bj,bm
 
 
   ![Image test](/images/uploads/img_20211207_161208.jpg)
@@ -18,7 +18,7 @@ section1: >-
   ### Embed Test
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="956" height="538" src="https://www.youtube.com/embed/n97PiM4VrpI?list=PLAWmo5fDQX87aTmOfr9eu7cq_XogHqeic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 section2: |-
   ## This is a Container component
 
